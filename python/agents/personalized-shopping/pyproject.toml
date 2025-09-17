@@ -1,7 +1,7 @@
 [project]
 name = "personalized-shopping"
 version = "0.1.0"
-description = "Personalzied Shopping with Google ADK"
+description = "Personalized Shopping with Google ADK"
 authors = [{ name = "Yiwen Song", email = "yiwensong@google.com" }]
 license = "Apache License 2.0"
 readme = "README.md"
